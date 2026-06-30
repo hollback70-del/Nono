@@ -1,0 +1,5 @@
+https://github.com/htr-tech/zphisher.git
+https://github.com/htr-tech/nexphisher.git
+https://github.com/Ignitetch/AdvPhishing.git
+https://github.com/jaykali/maskphish.git
+https://github.com/CrimsonForge-io/king-phisher.git
